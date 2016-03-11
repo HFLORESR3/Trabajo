@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Armando/Desktop/cursos/ModuloIJava/ModuloIPOO/Sesion5/Sesion04/src/com/upao/factory/AbstractFactory.java</file>
+            <file>file:/C:/Users/Armando/Desktop/cursos/ModuloIJava/ModuloIPOO/Sesion5/Sesion04/src/com/upao/dao/impl/ClienteDAOmysql.java</file>
+            <file>file:/C:/Users/Armando/Desktop/cursos/ModuloIJava/ModuloIPOO/Sesion5/Sesion04/src/com/upao/cliente/Main.java</file>
+            <file>file:/C:/Users/Armando/Desktop/cursos/ModuloIJava/ModuloIPOO/Sesion5/Sesion04/src/com/upao/entity/Pan.java</file>
+            <file>file:/C:/Users/Armando/Desktop/cursos/ModuloIJava/ModuloIPOO/Sesion5/Sesion04/src/com/upao/factory/FactoryMySQL.java</file>
+            <file>file:/C:/Users/Armando/Desktop/cursos/ModuloIJava/ModuloIPOO/Sesion5/Sesion04/src/com/upao/dao/impl/PanDAOmysql.java</file>
+            <file>file:/C:/Users/Armando/Desktop/cursos/ModuloIJava/ModuloIPOO/Sesion5/Sesion04/src/com/upao/entity/Cliente.java</file>
+        </group>
+    </open-files>
+</project-private>
