@@ -24,7 +24,7 @@ import java.util.List;
  *
  * @author Armando
  */
-public class Main {
+public class Oracle {
 
     /**
      * @param args the command line arguments
